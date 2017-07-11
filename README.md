@@ -1,1 +1,1 @@
-# This test branch is just a wayu to test stuff
+# This test branch is just a way to test stuff
